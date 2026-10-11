@@ -14,13 +14,13 @@ An MIT-licensed Python tool for comparing browser diagnostic JSON reports offlin
 - Includes runnable fictional examples and regression tests.
 - Status: initial public release, developed with AI assistance.
 
-### Browser compatibility diagnostics
+### [Browser compatibility diagnostics](https://github.com/mark-85-byte/browser-compatibility-tests)
 
 A Python diagnostics project for comparing browser behavior across Windows, macOS and Linux. The current implementation records the execution environment, browser version, graphics renderer, canvas sample repeatability, font measurements and screen dimensions.
 
 - Focus: explicit environment information and understandable diagnostic reports.
-- Status: early-stage development in a private repository.
-- Current work: report comparison, clearer documentation and preparation for a public release.
+- Status: early-stage public development under the MIT license.
+- Includes offline report comparison, contribution guidance and regression tests.
 
 ### [leo-stark](https://github.com/mark-85-byte/leo-stark)
 
@@ -35,4 +35,4 @@ A Tic-Tac-Toe example in Leo, exploring typed game state, player moves and comma
 
 ## Development direction
 
-Improve report validation and readable summaries in Browser Report Diff, prepare the diagnostics project's public release, and make examples easier for other developers to reproduce.
+Improve report validation and readable summaries in Browser Report Diff, expand the diagnostics project’s validation, and make examples easier for other developers to reproduce.
