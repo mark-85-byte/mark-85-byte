@@ -36,3 +36,19 @@ A Tic-Tac-Toe example in Leo, exploring typed game state, player moves and comma
 ## Development direction
 
 Improve report validation and readable summaries in Browser Report Diff, expand the diagnostics project’s validation, and make examples easier for other developers to reproduce.
+
+
+## Community notes
+
+### Claude for Open Source: try Edge if Submit is unresponsive
+
+If the Claude for Open Source form shows GitHub verification as complete but clicking **Submit** produces no visible response, try opening the [official application form](https://claude.com/contact-sales/claude-for-oss) in **Microsoft Edge**.
+
+In my test, Edge displayed the application submission confirmation.
+
+1. Open the official form in Edge.
+2. Sign in with GitHub and select your repository.
+3. Complete the required fields and submit.
+4. Allow time for the confirmation message to appear before retrying.
+
+This troubleshooting tip is based on one successful submission; browser behavior may vary.
